@@ -1,0 +1,16 @@
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.exe
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.deps.json
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.runtimeconfig.json
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.runtimeconfig.dev.json
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.dll
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\bin\Debug\netcoreapp3.1\ProjAtendimento.pdb
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.csproj.AssemblyReference.cache
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.AtendimentoForm.resources
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.csproj.GenerateResource.cache
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.AssemblyInfoInputs.cache
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.AssemblyInfo.cs
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.dll
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.pdb
+C:\Users\vitub\source\repos\ProjAtendimento\ProjAtendimento\obj\Debug\netcoreapp3.1\ProjAtendimento.genruntimeconfig.cache
